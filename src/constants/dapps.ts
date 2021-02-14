@@ -661,6 +661,12 @@ const DAPPS: IProject[] = [
     url: "https://honeyswap.org/",
     style: { cropCircle: true },
   },
+  {
+    name: "Ganjacoin",
+    icon: require("../assets/dapps/ganjacoin.png"),
+    url: "https://ganjacoinpro.com/",
+    style: {},
+  },
 ];
 
 export default DAPPS;
